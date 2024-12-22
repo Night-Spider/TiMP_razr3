@@ -1,0 +1,27 @@
+2024-12-18 20:34:29 Test log message
+2024-12-18 20:34:29 
+2024-12-18 20:34:29 Log message with timestamp
+2024-12-18 20:35:46 Test log message
+2024-12-18 20:35:46 
+2024-12-18 20:35:46 Log message with timestamp
+2024-12-18 20:37:14 Test log message
+2024-12-18 20:37:14 
+2024-12-18 20:37:14 Log message with timestamp
+2024-12-18 20:41:04 Test log message
+2024-12-18 20:41:04 
+2024-12-18 20:41:04 Log message with timestamp
+2024-12-18 20:43:01 Test log message
+2024-12-18 20:43:01 
+2024-12-18 20:43:01 Log message with timestamp
+2024-12-18 20:45:16 Test log message
+2024-12-18 20:45:16 
+2024-12-18 20:45:16 Log message with timestamp
+2024-12-18 20:52:07 Test log message
+2024-12-18 20:55:58 Test log message
+2024-12-18 20:57:18 Test log message
+2024-12-18 21:09:09 Test log message
+2024-12-18 21:09:09 Настройка соединения с базой: invalid_base.txt
+2024-12-18 21:09:09 Ошибка: Ошибка открытия файла базы пользователей: invalid_base.txt
+2024-12-19 01:06:14 Test log message
+2024-12-19 01:06:14 Настройка соединения с базой: invalid_base.txt
+2024-12-19 01:06:14 Ошибка: Ошибка открытия файла базы пользователей: invalid_base.txt
